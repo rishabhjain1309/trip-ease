@@ -1,0 +1,10 @@
+/target
+*.iml
+*.class
+*.log
+*.jar
+.DS_Store
+.idea/
+*.db
+*.env
+/application.properties
